@@ -1,0 +1,4 @@
+MONGO_USER = prathameshraje23
+MONGO_PASS = raje123
+MONGO_DB_NAME = ADS
+MONGO_COLLECTION = Assignment09
